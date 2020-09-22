@@ -470,7 +470,7 @@ body .site-demo-nav .layui-nav-item{line-height: 40px}
   .site-banner-other{bottom: 15px;}
 
   .site-idea{margin: 20px 0;}
-  .site-idea li{margin: 0 0 20px 0; width: 100%; height: auto; -webkit-box-sizing: border-box !important; -moz-box-sizing: border-box !important; box-sizing: border-box !important;}
+  .site-idea li{margin: 0 0 20px 0; width: 100%; height: auto; -webkit-box-sizing: border-box !important; -moz-box-sizing: border-box !important; box-sizing: border-box !important; font-family: Optima-Regular, Optima, PingFangSC-light, PingFangTC-light, "PingFang SC", Cambria, Cochin, Georgia, Times, "Times New Roman", serif;}
   .site-hengfu img{max-width: 100%}
 
   .layui-layer-dir{display: none;}
@@ -511,5 +511,5 @@ body .site-demo-nav .layui-nav-item{line-height: 40px}
 /* 适配多设备 */
 @media screen and (max-width: 1180px) {
   .layui-main{width: auto; margin: 0 10px;}
-  .site-idea li{margin: 0 0 20px 0; width: 100%; height: auto; -webkit-box-sizing: border-box !important; -moz-box-sizing: border-box !important; box-sizing: border-box !important;}
+  .site-idea li{margin: 0 0 20px 0; width: 100%; height: auto; -webkit-box-sizing: border-box !important; -moz-box-sizing: border-box !important; box-sizing: border-box !important; font-family: Optima-Regular, Optima, PingFangSC-light, PingFangTC-light, "PingFang SC", Cambria, Cochin, Georgia, Times, "Times New Roman", serif;}
 }
